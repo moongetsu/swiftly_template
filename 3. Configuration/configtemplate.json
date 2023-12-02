@@ -1,0 +1,9 @@
+{
+    "number": 123,
+    "text": "Text",
+    "list": [
+        "Text1",
+        "Text2",
+        "Text3"
+    ]
+}
